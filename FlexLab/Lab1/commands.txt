@@ -1,0 +1,6 @@
+Commands to use:
+
+1.    flex lab1.l
+2.    bison -dy lab1.y
+3.    gcc lex.yy.c y.tab.c -o a.exe
+4.    a.exe
